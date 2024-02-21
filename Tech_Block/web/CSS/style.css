@@ -1,0 +1,45 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+
+   
+}
+
+.primary-bcg{
+    background:#2196f3!important;
+}
+.effect{
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.effect:hover{
+    transform: scale(1.15);
+}
+
+.nav-effect{
+    transition: all 0.8s;
+
+}
+.nav-effect:hover{
+
+    background: rgba(0,0,0,0.1);
+    border: 1px solid rgba(0,0,0,0.1);
+    font-weight: 500;
+    border-radius: 5px;
+    transform: scale(0.9);
+}
+
+.image{
+    background-repeat:  no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    border-color: background;
+    width:  150px;
+
+
+    /*style="border-radius: 50%; max-width: 140px; background-size: cover;*/
+}
+
+/*footer section*/
