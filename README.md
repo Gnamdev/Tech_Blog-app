@@ -1,6 +1,3 @@
-Certainly! Here's the README file based on the script provided:
-
----
 
 ## **Tech Blog Application**
 
