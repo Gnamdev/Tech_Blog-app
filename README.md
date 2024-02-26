@@ -43,6 +43,3 @@ Welcome to our Tech Blog Application! This platform is designed to provide users
 ## Conclusion:
 Thank you for exploring our Tech Blog Application! We hope you enjoy the experience. If you have any questions or feedback, feel free to reach out. Happy reading!
 
----
-
-Feel free to customize this README file further based on your project's specifics. Let me know if you need any additional assistance!
